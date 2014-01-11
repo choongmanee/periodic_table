@@ -1,0 +1,79 @@
+div {
+	text-align: center;
+	height: 45px;
+	width: 45px;
+	display: inline-block;
+	vertical-align: top;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+	margin:1px;
+}
+
+.top {
+	height: 30px;
+	text-align: center;
+	border: 1px solid lightgray;
+}
+
+.guide {
+	color: red;
+	font-size: 10px;
+	background-color: lightgray;
+	/*border: 1px solid red;*/
+	text-align: center;
+}
+
+.third {
+	margin-left: 10px;
+}
+
+.clear {
+	border: 1px solid lightgray;
+}
+
+.element {
+	border: 1px solid black;
+}
+
+.blue {
+	background-color: lightblue;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.pink {
+	background-color: pink;
+}
+
+.green {
+	background-color: green;
+}
+
+.noids {
+	width: 158px;
+	margin-right: 0px;
+}
+
+.right {
+	float: right;
+}
+
+.element_symbol {
+	color: blue;
+	font-size: 16px;
+	display: block;
+}
+
+#container {
+	padding: 5px 15px 5px 5px;
+	width: 1000px;
+	border:1px solid green;
+	background-color: lightgray;
+	height: auto;
+}
+
+footer {
+	margin-top: 20px;
+}
